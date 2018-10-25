@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Moment lyrics",
+    "description": "This project is really great.",
+    "slug": "Moment-lyrics",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/1.png",
+    "splash": {
+      "image": "./assets/1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android":{
+      "package": "com.wahyualfarisi.yourappname"
+    }
+  }
+}
